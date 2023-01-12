@@ -1,0 +1,32 @@
+
+
+body{
+    /* height: 1840px; */
+    height: 2000px;
+    background-color: black;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+
+a {
+    color: white;
+    font-size: 12px;
+    font-stretch: wider;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+
+p{
+    color: white;
+}
+
+hr{
+
+    width: 1226px;
+    height: 1px;
+    border: none;
+    background-color: rgb(77, 76, 76);
+}

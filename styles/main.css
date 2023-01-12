@@ -1,0 +1,136 @@
+.image-controls {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 680px;
+}
+
+
+
+.image-status {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: auto auto 217px auto;
+}
+
+.ui-page-item {
+    width: 7px;
+    height: 6px;
+    border: 2px solid rgba(190, 190, 190, 0.3);
+    border-radius: 6px;
+    margin: 0 8px 0 8px;
+    text-indent: -9999px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.arrow {
+    position: relative;
+    height: 40px;
+    width: 20px;
+    margin: 215px 55px 0 48px;
+
+}
+
+.left-arrow {
+    width: 30px;
+    height: 63px;
+    object-fit: cover;
+    object-position: 0px 40%;
+}
+
+.right-arrow {
+    width: 30px;
+    height: 63px;
+    object-fit: cover;
+    object-position: -53px 0;
+}
+
+.image-slider {
+    height: 610px;
+    margin: -860px 0 0 -312px;
+    padding-bottom: 50px;
+    overflow: hidden;
+  
+}
+
+.product-images {
+    width: 1226px;
+    margin: 16px auto 16px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.video-heading {
+    width: 100%;
+    text-align: center;
+    margin: 68px 0 38px 0;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+
+}
+
+.video-thumbanil{
+    width: 398px;
+    height: 320px;
+    overflow: hidden;
+
+}
+
+.video-heading h2 {
+    color: white;
+
+}
+
+.video-list {
+    width: 1226px;
+    display: flex;
+    margin: 12px auto 0 auto;
+    justify-content: space-between;
+    
+    
+}
+
+
+.play-btn {
+    
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    display: block;
+    margin: 100px auto;
+    background-color: white;
+    opacity: .2;
+}
+
+
+
+.video-description{
+    width: 100%;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    margin: -70px 0 0 0;
+   
+}
+
+.video-description a{
+    font-size: 22px;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.video-ctrl{
+    margin: -300px 0 0 0;
+}
+
+.licence{
+    font-size: 13px;
+    color: rgb(114, 105, 105);
+    margin-left: 36px;
+}

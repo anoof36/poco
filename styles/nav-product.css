@@ -1,0 +1,29 @@
+.nav-products{
+    margin: 0 60px 0 205px;
+    margin-top: 32px;
+    background-color: transparent;
+    position: relative;
+    
+}
+
+.product-text{
+    display: flex;
+    justify-content: space-between;
+}
+.product-text li{
+    display: inline-block;
+    
+}
+.product-text a{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+.product-text :hover {
+   color: yellow;
+}
+  
+
+  
